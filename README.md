@@ -32,6 +32,10 @@
 2024/08/15版本更新！
 首次APP登录Github
 激活码自取，大部分功能正常，后续会改进！
+### 1.0.240815.2
+版本更新！
+加入保留激活状态的代码
+暂无bug
 
 ## 版权
 CopyRight BruceHanzi和名下小工作室NewSight & NAC Studio开发制作
