@@ -38,6 +38,12 @@ CSDN账户链接：https://blog.csdn.net/B20111003
 版本更新！
 加入保留激活状态的代码
 暂无bug
+#### 1.0.240815.3
+版本更新！
+加入自动化收支分析功能
+解决了几个小问题
+暂无bug
+
 
 ## 版权
 CopyRight BruceHanzi和名下小工作室NewSight & NAC Studio开发制作
