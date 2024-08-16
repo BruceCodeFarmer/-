@@ -5,8 +5,10 @@
 
 警告内容如下：
 
+```
 E:\...\ui.py:167: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
   self.income_expense = pd.concat([self.income_expense, new_row], ignore_index=True)
+```
 
 希望如果有大佬看见可以指点
 
