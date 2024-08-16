@@ -43,7 +43,11 @@ CSDN账户链接：https://blog.csdn.net/B20111003
 加入自动化收支分析功能
 解决了几个小问题
 暂无bug
-
+#### 1.0.240816.4
+版本更新！
+全局UI更改！
+解决了几个小问题
+加入了更加详细的日志输出和log文件
 
 ## 版权
 CopyRight BruceHanzi和名下小工作室NewSight & NAC Studio开发制作
