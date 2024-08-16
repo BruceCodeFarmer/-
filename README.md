@@ -1,11 +1,27 @@
 # 资金管理APP
 
+## 公告
+此Python APP程序遇到了一个小问题，控制台进行了警告，不影响正常使用
+
+警告内容如下：
+
+E:\...\ui.py:167: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  self.income_expense = pd.concat([self.income_expense, new_row], ignore_index=True)
+
+希望如果有大佬看见可以指点
+
+
 ## 说明
 此应用为测试版本阶段，后续会进一步修复所有bug。
+
 应用是**需要输入激活码**制的，完整版本请关注CSDN账号并获得激活码，输入后可以体验到完整版本。
+
 因为功能尚未完全，并没有实现pyinstaller exe文件，请安装好环境后再使用。
+
 如果发现共享激活码和**私自更改**破解版本的，视为侵犯版权，请自重。
+
 CSDN账户链接：https://blog.csdn.net/B20111003
+
 目前实现功能：
 
 
